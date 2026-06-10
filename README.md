@@ -18,9 +18,10 @@
 4. `plans/6_month_execution.md`
 5. 最近 3 篇 `logs/` 周复盘
 6. `tools/hvac_quote_ground_source_rulebook.md`：地源热泵选型、报价、方案书制作 SOP
-7. 当前 `portfolio/`、`job_search/`、`tools/`、`prompts/`
+7. `tools/hvac_quote_ground_source_format_addendum.md`：地源热泵报价文件格式补充规则
+8. 当前 `portfolio/`、`job_search/`、`tools/`、`prompts/`
 
-如果任务涉及地源热泵报价、方案设计书、末端配置表、成本与报价表，请优先读取 `tools/hvac_quote_ground_source_rulebook.md`，并以最新用户确认的规则和最新基准文件为准。不要只凭旧聊天记忆制作报价文件。
+如果任务涉及地源热泵报价、方案设计书、末端配置表、成本与报价表，请优先读取 `tools/hvac_quote_ground_source_rulebook.md` 和 `tools/hvac_quote_ground_source_format_addendum.md`，并以最新用户确认的规则和最新基准文件为准。不要只凭旧聊天记忆制作报价文件。
 
 然后请作为我的：
 
