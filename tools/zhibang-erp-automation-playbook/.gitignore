@@ -1,0 +1,30 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# ERP secrets and raw exports
+*session*.json
+*token*.json
+*captcha*
+*验证码*
+*登录态*
+output/
+exports/
+downloads/
+raw/
+
+# Generated business files
+*.xlsx
+*.xls
+*.docx
+*.zip
+
+# Local editor files
+.idea/
+.vscode/
+Thumbs.db
+
