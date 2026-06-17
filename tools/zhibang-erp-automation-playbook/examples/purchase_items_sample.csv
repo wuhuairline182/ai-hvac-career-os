@@ -1,0 +1,4 @@
+purchase_title,purchase_code,supplier_name,supplier_code,counterparty,currency,purchase_category,buyer,purchase_date,summary,product_name,product_code,model,unit,unit_attr,quantity,need_qc,unit_price,include_tax,tax_rate,invoice_type,discount,line_discount,arrival_date,line_remark,brand,stock_in_status,invoice_receive_status,payment_status
+转自项目：示例项目-设备采购,CG_20260617001,示例供应商,,,人民币,常规采购,采购员,2026-06-17,示例采购单,四面出风室内机,DEMO-001,HVR-112Q/G2FZBp1,台,,45,否,1994,是,0.13,增值税专用发票,1,0,,示例明细,示例品牌,未入库,自动收票,自动生成
+,,,,,,,,,,四面出风室内机,DEMO-002,HVR-125Q/G2FZBp1,台,,14,否,2097,是,0.13,增值税专用发票,1,0,,示例明细,示例品牌,未入库,自动收票,自动生成
+
